@@ -15,7 +15,6 @@ Examination and evaluation of sensor related data of a hydraulic testing rig. Pr
 
 
 # 2. Content
-[Presentation](https://docs.google.com/presentation/d/1ZEQCkRbsjDO7nmHwPzC1hk9N7e49jOVGceAPkqnYCSA/edit?usp=sharing)
 
 \data: sensor data
 
